@@ -50,7 +50,7 @@ The program generates a line chart showing daily electricity consumption trends.
 
 1. Clone the repository
 
-git clone (https://github.com/myygzz/python-energy-consumption-analyzer)
+git clone https://github.com/myygzz/python-energy-consumption-analyzer
 
 2. Navigate to the project directory
 
