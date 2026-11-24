@@ -20,14 +20,14 @@ CSV| Data storage and reading
 Matplotlib| Data visualization
 
 📁 Project Structure
-
+```
 python-energy-consumption-analyzer/
 │
 ├── main.py
 ├── energy_data.csv
 ├── energy_chart.png
 └── README.md
-
+```
 📊 Sample Results
 
 The project uses sample electricity consumption data covering 14 days.
